@@ -1,5 +1,5 @@
 <img width="auto" src="https://github.com/IgorCastromann/IgorCastromann-/blob/master/Wallpaper%20Keep%20Coding%20-%202560x1080.jpg">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorCastromann&color=04D361&labelColor=000000"" alt="Igor Castro" /> </p>
 <h1 align="center">Olá 👋, Me chamo Igor Castro</h1>
 <h3 align="center">Learning and chasing my dreams</h3>
 
