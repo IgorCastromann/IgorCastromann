@@ -18,9 +18,9 @@
 </a>
 </p>
 
-- 🌱 Aprendendo atualmente **NodeJS, React e React Native**
+- 🌱 Aprendendo atualmente **Python, Django e ReactJS**
 
-- 🔎 Estou em busca de vaga na **área de TI**
+- 🔎 Estou em busca de evolução na **área de TI**
 
 - 👨‍💻 Todos meus projetos e desafios disponíveis em: [GitHub](https://github.com/IgorCastromann)
 
