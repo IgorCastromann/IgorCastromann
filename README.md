@@ -18,7 +18,7 @@
 </a>
 </p>
 
-- 🌱 Aprendendo atualmente **Python, Django e ReactJS**
+- 🌱 Aprendendo atualmente **Javascript, Vue e ReactJS**
 
 - 🔎 Estou em busca de evolução na **área de TI**
 
