@@ -18,7 +18,7 @@
 </a>
 </p>
 
-- 🌱 Aprendendo atualmente **Javascript, Vue e ReactJS**
+- 🌱 Aprendendo atualmente **Typescript, Vue e ReactJS**
 
 - 🔎 Estou em busca de evolução na **área de TI**
 
