@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorCastromann&show_icons=true&count_private=true&title_color="#333" alt="stefanosaffran" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorCastromann&show_icons=true&count_private=true&title_color="#333" alt="igorCastromann" />
 </p>
 
 
