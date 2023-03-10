@@ -18,6 +18,8 @@
 </a>
 </p>
 
+- 🐻 [Portfolio pessoal](https://igor-castromann-github-io.vercel.app/)
+
 - 🌱 Constante evoluindo meus conhecimentos sobre **Typescript e suas extensões**
 
 - 🔎 Estou em busca de desafios no **Front end**
