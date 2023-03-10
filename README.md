@@ -18,29 +18,25 @@
 </a>
 </p>
 
-- 🌱 Aprendendo atualmente **Typescript, Vue e ReactJS**
+- 🌱 Constante evoluindo meus conhecimentos sobre **Typescript e suas extensões**
 
-- 🔎 Estou em busca de evolução na **área de TI**
+- 🔎 Estou em busca de desafios no **Front end**
 
 - 👨‍💻 Todos meus projetos e desafios disponíveis em: [GitHub](https://github.com/IgorCastromann)
 
-- 💬  &nbsp; **Sobre mim**: De curso técnico de informática, para engenharia de materiais, para assessor de um Deputado Estadual e de volta tentando me ingressar na área de TI. É um resumo da minha história até aqui, e posso dizer que hoje, aos 28 anos, nunca me encontrei tão empolgado querendo aprender, evoluir e produzir..
+- 💬  &nbsp; **Sobre mim**: De curso técnico de informática, para engenharia de materiais, para assessor de um Deputado Estadual e de volta a área de tecnologia como desenvolvedor. Tenho sólido conhecimento e experiência em React/Vue/Typescript/html/css.
 
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-<img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="React Native" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
+ <img src="https://img.icons8.com/office/256/react.png" alt="react" width="30" height="30"/>
+ <img src="https://img.icons8.com/color/256/vue-js.png" alt="react" width="30" height="30"/>
+ <img src="https://img.icons8.com/color/256/html-5.png" alt="react" width="30" height="30"/>
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo.png" alt="react" width="30" height="30"/>
+ <img src="https://img.icons8.com/fluency/256/typescript.png" alt="react" width="30" height="30"/>
+ <img src="https://img.icons8.com/fluency/256/javascript.png" alt="react" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
+
 </p>
 
 <p align="center">
